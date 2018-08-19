@@ -1,0 +1,29 @@
+#info {
+    float: left;
+}
+
+#name {
+   background-color: #4aaaa5;
+   color: aliceblue;
+   float: left;
+
+}
+
+.but {
+    float: right;
+}
+
+
+.myImage {
+    width: 35px;
+    height: 80px;
+}
+
+#para {
+    float: left;
+}
+
+.mainContent {
+    width: 960px;
+    clear: both;
+}
